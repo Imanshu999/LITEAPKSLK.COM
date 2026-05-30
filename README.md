@@ -88,6 +88,1049 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     <h1 class="text-[26px] text-primary font-bold tracking-tight m-0 leading-none">LITEAPKS.COM</h1>
                             </a>
             <nav class="hidden md:flex gap-0 ml-6">
-                <a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-primary" href="https://liteapks.com/"><svg class="text-primary mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Home</a><a class="menu-item menu-item-type-taxonomy men
-# LITEAPKSLK.COM
-1. Lavkush 2. IMAANSHU
+                <a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-primary" href="https://liteapks.com/"><svg class="text-primary mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Home</a><a class="menu-item menu-item-type-taxonomy menu-item-object-category flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-gray" href="https://liteapks.com/apps"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M864-40 741-162q-18 11-38.5 16.5T660-140q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-6 43.5T797-218L920-96l-56 56ZM220-140q-66 0-113-47T60-300q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm0-80q33 0 56.5-23.5T300-300q0-33-23.5-56.5T220-380q-33 0-56.5 23.5T140-300q0 33 23.5 56.5T220-220Zm440 0q33 0 56.5-23.5T740-300q0-33-23.5-56.5T660-380q-33 0-56.5 23.5T580-300q0 33 23.5 56.5T660-220ZM220-580q-66 0-113-47T60-740q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm440 0q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm-440-80q33 0 56.5-23.5T300-740q0-33-23.5-56.5T220-820q-33 0-56.5 23.5T140-740q0 33 23.5 56.5T220-660Zm440 0q33 0 56.5-23.5T740-740q0-33-23.5-56.5T660-820q-33 0-56.5 23.5T580-740q0 33 23.5 56.5T660-660ZM220-300Zm0-440Zm440 0Z"/></svg>Apps</a><a class="menu-item menu-item-type-taxonomy menu-item-object-category flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-gray" href="https://liteapks.com/games"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M15.28,8.16c-1.13.66-.14,2.38,1,1.73,1.13-.66.14-2.38-1-1.73ZM13.68,11.39c-1.13.66-.14,2.38,1,1.73,1.13-.66.14-2.38-1-1.73ZM9.72,12.53l-.87.5c-.39-.71-.88-1.77-1.87-1.23-.96.59-.29,1.54.13,2.23-.71.39-1.77.88-1.23,1.87.59.96,1.54.29,2.23-.13.39.71.88,1.77,1.87,1.23.96-.59.29-1.54-.13-2.23l.87-.5c1.13-.66.14-2.38-1-1.73ZM22.09,10.11C19,4.58,17.87.18,11,4.86c-.85-1-2.22-1.27-3.45-.82,0,0-.13.04-.13.04-.5.14-.61.17-.69.17-1.4.16-1.34-2.96-3.02-2.11-.97.6-.28,1.56.15,2.25.57,1.18,1.69,1.95,3.01,1.85.7,0,1.69-.64,2.3-.32l-3.8,2.19c-1.95,1.16-3.83,1.96-4.03,4.29-.07,1.94.98,3.16,1.98,5.03,1.4,2.7,3.35,5.6,6.58,4.12,1.58-.67,6.97-3.98,8.64-4.88,2.78-1.39,5.13-3.36,3.55-6.56ZM20.57,12.2c-.23,1.52-1.58,1.76-3.09,2.77,0,0-6.06,3.5-6.06,3.5-1.98,1.05-3.43,2.48-4.89.38-.86-1.48-3.11-4.58-3.2-6.27.23-1.52,1.58-1.76,3.09-2.77,0,0,4.76-2.75,4.76-2.75,1.02-.58,2.87-1.7,3.61-2,.81-.33,1.03-.29,1.64-.05,1.09.69,1.51,1.85,2.45,3.37.84,1.58,1.65,2.52,1.69,3.81Z"/></svg>Games</a><a class="menu-item menu-item-type-taxonomy menu-item-object-tip_cat flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-gray" href="https://liteapks.com/news"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M240-400q0 52 21 98.5t60 81.5q-1-5-1-9v-9q0-32 12-60t35-51l113-111 113 111q23 23 35 51t12 60v9q0 4-1 9 39-35 60-81.5t21-98.5q0-50-18.5-94.5T648-574q-20 13-42 19.5t-45 6.5q-62 0-107.5-41T401-690q-39 33-69 68.5t-50.5 72Q261-513 250.5-475T240-400Zm240 52-57 56q-11 11-17 25t-6 29q0 32 23.5 55t56.5 23q33 0 56.5-23t23.5-55q0-16-6-29.5T537-292l-57-56Zm0-492v132q0 34 23.5 57t57.5 23q18 0 33.5-7.5T622-658l18-22q74 42 117 117t43 163q0 134-93 227T480-80q-134 0-227-93t-93-227q0-129 86.5-245T480-840Z"/></svg>News</a><a class="menu-item menu-item-type-post_type menu-item-object-page flex flex-col sm:flex-row items-center px-6 py-2 text-sm font-semibold no-underline text-gray" href="https://liteapks.com/browse-apps-games"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M240-80v-170q-39-17-68.5-45.5t-50-64.5q-20.5-36-31-77T80-520q0-158 112-259t288-101q176 0 288 101t112 259q0 42-10.5 83t-31 77q-20.5 36-50 64.5T720-250v170H240Zm80-80h40v-80h80v80h80v-80h80v80h40v-142q38-9 67.5-30t50-50q20.5-29 31.5-64t11-74q0-125-88.5-202.5T480-800q-143 0-231.5 77.5T160-520q0 39 11 74t31.5 64q20.5 29 50.5 50t67 30v142Zm100-200h120l-60-120-60 120Zm-80-80q33 0 56.5-23.5T420-520q0-33-23.5-56.5T340-600q-33 0-56.5 23.5T260-520q0 33 23.5 56.5T340-440Zm280 0q33 0 56.5-23.5T700-520q0-33-23.5-56.5T620-600q-33 0-56.5 23.5T540-520q0 33 23.5 56.5T620-440ZM480-160Z"/></svg>Browse</a>            </nav>
+            <div class="flex items-center gap-2 ml-auto">
+                <button id="searchToggle" class="w-10 h-10 flex items-center justify-center rounded-full hover:bg-bg text-gray" aria-label="Open search">
+                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                </button>
+            </div>
+        </div>
+
+        <div id="header-search"
+             class="absolute inset-0 flex items-center gap-2 px-4 md:px-6 opacity-0 pointer-events-none translate-x-4 transition-all duration-200 ease-out"
+             role="search">
+
+            <form method="get"
+                  action="https://liteapks.com/"
+                  class="flex-1 flex items-center h-10 bg-[#f1f3f4] rounded-full px-4 gap-2">
+                <svg class="w-5 h-5 shrink-0 text-gray" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                <input id="headerSearchInput"
+                       type="search"
+                       name="s"
+                       value=""
+                       placeholder="Search apps &amp; games..."
+                       autocomplete="off"
+                       class="flex-1 bg-transparent border-none outline-none text-sm text-dark placeholder:text-gray min-w-0">
+            </form>
+
+            <button id="searchClose"
+                    type="button"
+                    class="shrink-0 w-10 h-10 flex items-center justify-center rounded-full hover:bg-bg text-gray bg-transparent border-none cursor-pointer"
+                    aria-label="Close search">
+                <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="#000000"><path d="m291-240-51-51 189-189-189-189 51-51 189 189 189-189 51 51-189 189 189 189-51 51-189-189-189 189Z"/></svg>
+            </button>
+        </div>
+
+    </div>
+</header>
+
+<div id="sidebarOverlay" class="fixed inset-0 bg-black/40 z-40 opacity-0 pointer-events-none transition-opacity duration-300"></div>
+<nav id="sidebar" class="fixed top-0 left-0 bottom-0 w-[300px] max-w-[80vw] bg-white z-50 -translate-x-full transition-transform duration-300 overflow-y-auto hide-sb">
+    <div class="flex items-center gap-2 px-6 py-4 border-b border-border">
+                    <img class="w-5 h-5" alt="LITEAPKS.COM" src="https://liteapks.com/wp-content/uploads/2022/07/android.ico">
+                <span class="text-lg font-bold text-dark-2">LITEAPKS.COM</span>
+    </div>
+    
+    <a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item flex items-center px-6 py-3 text-sm font-medium no-underline sidebar-menu-item menu-active bg-primary text-white" href="https://liteapks.com/"><svg class="text-primary mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Home</a><a class="menu-item menu-item-type-taxonomy menu-item-object-category flex items-center px-6 py-3 text-sm font-medium no-underline sidebar-menu-item text-dark" href="https://liteapks.com/apps"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M864-40 741-162q-18 11-38.5 16.5T660-140q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-6 43.5T797-218L920-96l-56 56ZM220-140q-66 0-113-47T60-300q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm0-80q33 0 56.5-23.5T300-300q0-33-23.5-56.5T220-380q-33 0-56.5 23.5T140-300q0 33 23.5 56.5T220-220Zm440 0q33 0 56.5-23.5T740-300q0-33-23.5-56.5T660-380q-33 0-56.5 23.5T580-300q0 33 23.5 56.5T660-220ZM220-580q-66 0-113-47T60-740q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm440 0q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 66-47 113t-113 47Zm-440-80q33 0 56.5-23.5T300-740q0-33-23.5-56.5T220-820q-33 0-56.5 23.5T140-740q0 33 23.5 56.5T220-660Zm440 0q33 0 56.5-23.5T740-740q0-33-23.5-56.5T660-820q-33 0-56.5 23.5T580-740q0 33 23.5 56.5T660-660ZM220-300Zm0-440Zm440 0Z"/></svg>Apps</a><a class="menu-item menu-item-type-taxonomy menu-item-object-category flex items-center px-6 py-3 text-sm font-medium no-underline sidebar-menu-item text-dark" href="https://liteapks.com/games"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M15.28,8.16c-1.13.66-.14,2.38,1,1.73,1.13-.66.14-2.38-1-1.73ZM13.68,11.39c-1.13.66-.14,2.38,1,1.73,1.13-.66.14-2.38-1-1.73ZM9.72,12.53l-.87.5c-.39-.71-.88-1.77-1.87-1.23-.96.59-.29,1.54.13,2.23-.71.39-1.77.88-1.23,1.87.59.96,1.54.29,2.23-.13.39.71.88,1.77,1.87,1.23.96-.59.29-1.54-.13-2.23l.87-.5c1.13-.66.14-2.38-1-1.73ZM22.09,10.11C19,4.58,17.87.18,11,4.86c-.85-1-2.22-1.27-3.45-.82,0,0-.13.04-.13.04-.5.14-.61.17-.69.17-1.4.16-1.34-2.96-3.02-2.11-.97.6-.28,1.56.15,2.25.57,1.18,1.69,1.95,3.01,1.85.7,0,1.69-.64,2.3-.32l-3.8,2.19c-1.95,1.16-3.83,1.96-4.03,4.29-.07,1.94.98,3.16,1.98,5.03,1.4,2.7,3.35,5.6,6.58,4.12,1.58-.67,6.97-3.98,8.64-4.88,2.78-1.39,5.13-3.36,3.55-6.56ZM20.57,12.2c-.23,1.52-1.58,1.76-3.09,2.77,0,0-6.06,3.5-6.06,3.5-1.98,1.05-3.43,2.48-4.89.38-.86-1.48-3.11-4.58-3.2-6.27.23-1.52,1.58-1.76,3.09-2.77,0,0,4.76-2.75,4.76-2.75,1.02-.58,2.87-1.7,3.61-2,.81-.33,1.03-.29,1.64-.05,1.09.69,1.51,1.85,2.45,3.37.84,1.58,1.65,2.52,1.69,3.81Z"/></svg>Games</a><a class="menu-item menu-item-type-taxonomy menu-item-object-tip_cat flex items-center px-6 py-3 text-sm font-medium no-underline sidebar-menu-item text-dark" href="https://liteapks.com/news"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M240-400q0 52 21 98.5t60 81.5q-1-5-1-9v-9q0-32 12-60t35-51l113-111 113 111q23 23 35 51t12 60v9q0 4-1 9 39-35 60-81.5t21-98.5q0-50-18.5-94.5T648-574q-20 13-42 19.5t-45 6.5q-62 0-107.5-41T401-690q-39 33-69 68.5t-50.5 72Q261-513 250.5-475T240-400Zm240 52-57 56q-11 11-17 25t-6 29q0 32 23.5 55t56.5 23q33 0 56.5-23t23.5-55q0-16-6-29.5T537-292l-57-56Zm0-492v132q0 34 23.5 57t57.5 23q18 0 33.5-7.5T622-658l18-22q74 42 117 117t43 163q0 134-93 227T480-80q-134 0-227-93t-93-227q0-129 86.5-245T480-840Z"/></svg>News</a><a class="menu-item menu-item-type-post_type menu-item-object-page flex items-center px-6 py-3 text-sm font-medium no-underline sidebar-menu-item text-dark" href="https://liteapks.com/browse-apps-games"><svg class="text-gray mr-2 w-5 h-5" width="20px" height="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M240-80v-170q-39-17-68.5-45.5t-50-64.5q-20.5-36-31-77T80-520q0-158 112-259t288-101q176 0 288 101t112 259q0 42-10.5 83t-31 77q-20.5 36-50 64.5T720-250v170H240Zm80-80h40v-80h80v80h80v-80h80v80h40v-142q38-9 67.5-30t50-50q20.5-29 31.5-64t11-74q0-125-88.5-202.5T480-800q-143 0-231.5 77.5T160-520q0 39 11 74t31.5 64q20.5 29 50.5 50t67 30v142Zm100-200h120l-60-120-60 120Zm-80-80q33 0 56.5-23.5T420-520q0-33-23.5-56.5T340-600q-33 0-56.5 23.5T260-520q0 33 23.5 56.5T340-440Zm280 0q33 0 56.5-23.5T700-520q0-33-23.5-56.5T620-600q-33 0-56.5 23.5T540-520q0 33 23.5 56.5T620-440ZM480-160Z"/></svg>Browse</a></nav>
+
+
+<main class="pb-16 md:pb-0">		<section class="pt-6">
+			<div class="max-w-gp mx-auto px-4 md:px-6">
+                                    <div class="flex justify-start gap-1">
+                        <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M264-384q0 46 19.5 87.5T338-223q-1-5-1.5-10t-.5-10q0-27 10-50.5t27-42.5l107-120 107 120q17 20 27 43.5t10 49.5q0 5-.5 10.5T622-222q35-29 54.5-71.5T696-384q0-51-17.5-100.5T628-576q-17 11-35.5 17t-40.5 6q-52 0-91.5-32T411-668q-36 33-63 67.5T302-530q-19 36-28.5 73t-9.5 73Zm216 36-53 60q-9 11-14 22.5t-5 25.5q0 30 21 51t51 21q30 0 51-21t21-51q0-14-5-26t-14-22l-53-60Zm0-468v119q0 30 21 51t51 21q17 0 31.5-7t24.5-20l16-20q64 38 104 118.5T768-384q0 120-84 204T480-96q-120 0-204-84t-84-204q0-112 76-226.5T480-816Z"/></svg>                        <h2 class="sec-title text-lg font-bold">Indispensable on your phone</h2>
+                    </div>
+
+                                    
+				<div class="flex gap-4 overflow-x-auto snap-x snap-mandatory hide-sb mt-4">
+											<a href="https://liteapks.com/spotify-2.html" class="snap-start shrink-0 w-[85%] sm:w-[60%] md:w-[45%] lg:w-[30%] rounded-2xl overflow-hidden cursor-pointer no-underline text-dark bg-green-50 block relative group">
+    <div class="relative w-full aspect-video overflow-hidden">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/spotify-music-and-podcasts-1.png" alt="Spotify" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+            </div>
+
+    <div class="p-4 flex items-center gap-3 bg-white/50 backdrop-blur-sm absolute bottom-0 left-0 right-0">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/spotify-music-and-podcasts-150x150.png" class="w-10 h-10 rounded-xl shadow-sm" alt="Spotify">
+                <div>
+            <h3 class="font-semibold text-dark text-md m-0 leading-tight">Spotify</h3>
+            <p class="text-xs font-semibold text-primary mt-0.5">Music &amp; Audio</p>
+        </div>
+    </div>
+</a>											<a href="https://liteapks.com/tiktok-2.html" class="snap-start shrink-0 w-[85%] sm:w-[60%] md:w-[45%] lg:w-[30%] rounded-2xl overflow-hidden cursor-pointer no-underline text-dark bg-blue-50 block relative group">
+    <div class="relative w-full aspect-video overflow-hidden">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/tiktok-1.png" alt="TikTok" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+            </div>
+
+    <div class="p-4 flex items-center gap-3 bg-white/50 backdrop-blur-sm absolute bottom-0 left-0 right-0">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/tiktok-150x150.png" class="w-10 h-10 rounded-xl shadow-sm" alt="TikTok">
+                <div>
+            <h3 class="font-semibold text-dark text-md m-0 leading-tight">TikTok</h3>
+            <p class="text-xs font-semibold text-primary mt-0.5">Social</p>
+        </div>
+    </div>
+</a>											<a href="https://liteapks.com/capcut-video-editor.html" class="snap-start shrink-0 w-[85%] sm:w-[60%] md:w-[45%] lg:w-[30%] rounded-2xl overflow-hidden cursor-pointer no-underline text-dark bg-blue-50 block relative group">
+    <div class="relative w-full aspect-video overflow-hidden">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/04/capcut-cover.jpeg" alt="CapCut – Video Editor" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+            </div>
+
+    <div class="p-4 flex items-center gap-3 bg-white/50 backdrop-blur-sm absolute bottom-0 left-0 right-0">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/capcut-video-editor-150x150.png" class="w-10 h-10 rounded-xl shadow-sm" alt="CapCut – Video Editor">
+                <div>
+            <h3 class="font-semibold text-dark text-md m-0 leading-tight">CapCut – Video Editor</h3>
+            <p class="text-xs font-semibold text-primary mt-0.5">Video Players &amp; Editors</p>
+        </div>
+    </div>
+</a>											<a href="https://liteapks.com/roblox.html" class="snap-start shrink-0 w-[85%] sm:w-[60%] md:w-[45%] lg:w-[30%] rounded-2xl overflow-hidden cursor-pointer no-underline text-dark bg-pink-50 block relative group">
+    <div class="relative w-full aspect-video overflow-hidden">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/08/roblox-mod.jpg" alt="Roblox" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+            </div>
+
+    <div class="p-4 flex items-center gap-3 bg-white/50 backdrop-blur-sm absolute bottom-0 left-0 right-0">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/08/download-150x150.png" class="w-10 h-10 rounded-xl shadow-sm" alt="Roblox">
+                <div>
+            <h3 class="font-semibold text-dark text-md m-0 leading-tight">Roblox</h3>
+            <p class="text-xs font-semibold text-primary mt-0.5">Adventure</p>
+        </div>
+    </div>
+</a>											<a href="https://liteapks.com/fl-studio-mobile.html" class="snap-start shrink-0 w-[85%] sm:w-[60%] md:w-[45%] lg:w-[30%] rounded-2xl overflow-hidden cursor-pointer no-underline text-dark bg-pink-50 block relative group">
+    <div class="relative w-full aspect-video overflow-hidden">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/05/fl-studio-mobile-1.png" alt="FL STUDIO MOBILE" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+            </div>
+
+    <div class="p-4 flex items-center gap-3 bg-white/50 backdrop-blur-sm absolute bottom-0 left-0 right-0">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/05/fl-studio-mobile-150x150.png" class="w-10 h-10 rounded-xl shadow-sm" alt="FL STUDIO MOBILE">
+                <div>
+            <h3 class="font-semibold text-dark text-md m-0 leading-tight">FL STUDIO MOBILE</h3>
+            <p class="text-xs font-semibold text-primary mt-0.5">Music &amp; Audio</p>
+        </div>
+    </div>
+</a>									</div>
+			</div>
+		</section>
+	
+
+        <section class="pt-10">
+            <div class="max-w-gp mx-auto px-4 md:px-6">
+
+                
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center justify-start gap-1">
+                            <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M144-276q0-15 10.5-25.5T180-312q6 0 12 2t11 6q10 7 21.5 11.5T248-288q30 0 51-21t21-51q0-30-21-51t-51-21q-12 0-23.5 4T203-416q-5 4-11 6t-12 2q-15 0-25.5-10.5T144-444v-156q0-10 7-17t17-7h181q1 0 1 1t-1-1q-11-14-18-38.5t-7-44.5q0-66 45.5-111.5T480-864q65 0 110.5 45.5T636-707q0 21-7 44.5T611-624q-1 2-1 1t1-1h181q10 0 17 7t7 17v156q0 15-10.5 25.5T780-408q-6 0-12-2t-11-6q-10-8-21.5-12t-23.5-4q-30 0-51 21t-21 51q0 30 21 51t51 21q13 0 24.5-3.5T757-304q5-5 11-6.5t12-1.5q15 0 25.5 10.5T816-276v156q0 10-7 17t-17 7H168q-10 0-17-7t-7-17v-156Zm72 108h528v-51q-8 3-16 3h-16q-60 0-102-42t-42-102q0-60 42-102t102-42h16q8 0 16 3v-51H567q-20 0-33.5-13T520-597q0-8 1-15.5t6-13.5q11-17 24-39t13-42q0-35-24.5-60T480-792q-35 0-59.5 25T396-707q0 15 10.5 37.5T433-626q5 6 7 13.5t2 15.5q0 20-14.5 32.5T393-552H216v51q8-2 16-2.5t16-.5q60 0 102 42t42 102q0 60-42 102t-102 42q-8 0-16-.5t-16-2.5v51Zm264-312Z"/></svg>                            <h2 class="text-lg font-bold">Must have collection</h2>
+                        </div>
+
+                                                    <a href="https://liteapks.com/collection"
+                               class="text-sm font-semibold text-primary no-underline hover:underline">
+                                More                            </a>
+                                            </div>
+
+                    
+                
+                <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 mt-4">
+                    
+<div class="group relative rounded-2xl overflow-hidden aspect-square bg-dark">
+
+            <img src="https://liteapks.com/wp-content/uploads/2026/04/battle-500x281.jpg"
+             alt="Born for Battle"
+             loading="lazy"
+             class="absolute inset-0 w-full h-full object-cover transition-transform duration-500">
+    
+    <div class="absolute inset-0 bg-gradient-to-t from-[#1d4ed8]/90 via-[#1d4ed8]/40 to-transparent transition-opacity duration-300 group-hover:opacity-0"></div>
+    <div class="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[#1d4ed8]/90 via-[#1d4ed8]/40 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
+
+    <a href="https://liteapks.com/collection/born-for-battle"
+       class="absolute inset-0 z-[1]"
+       aria-label="Born for Battle"></a>
+
+    <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4 z-[2] pointer-events-none">
+        <h2 class="text-white font-bold text-sm sm:text-base leading-snug mb-2.5 drop-shadow">
+            Born for Battle        </h2>
+
+                    <div class="flex flex-wrap gap-1.5 pointer-events-auto">
+                                    <a href="https://liteapks.com/shadow-fight-2.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/06/shadow-fight-2-150x150.png"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/shades-shadow-fight-roguelike.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2025/08/shades-150x150.png"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/raid-shadow-legends.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/07/raid-shadow-legends-150x150.jpg"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                                <span class="flex items-end text-base font-bold text-white">
+                    +4 more                </span>
+                            </div>
+            </div>
+
+</div>
+
+<div class="group relative rounded-2xl overflow-hidden aspect-square bg-dark">
+
+            <img src="https://liteapks.com/wp-content/uploads/2026/03/custom-android-500x500.webp"
+             alt="Personalize Beyond The Default"
+             loading="lazy"
+             class="absolute inset-0 w-full h-full object-cover transition-transform duration-500">
+    
+    <div class="absolute inset-0 bg-gradient-to-t from-[#15803d]/90 via-[#15803d]/40 to-transparent transition-opacity duration-300 group-hover:opacity-0"></div>
+    <div class="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[#15803d]/90 via-[#15803d]/40 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
+
+    <a href="https://liteapks.com/collection/personalize-beyond-the-default"
+       class="absolute inset-0 z-[1]"
+       aria-label="Personalize Beyond The Default"></a>
+
+    <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4 z-[2] pointer-events-none">
+        <h2 class="text-white font-bold text-sm sm:text-base leading-snug mb-2.5 drop-shadow">
+            Personalize Beyond The Default        </h2>
+
+                    <div class="flex flex-wrap gap-1.5 pointer-events-auto">
+                                    <a href="https://liteapks.com/themepack.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/11/themepack-app-icons-widgets-150x150.jpg"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/pika-super-wallpaper.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2024/01/pika-super-wallpaper-150x150.webp"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/nebula-icon-pack.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/08/nebula-icon-pack-150x150.png"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                                <span class="flex items-end text-base font-bold text-white">
+                    +47 more                </span>
+                            </div>
+            </div>
+
+</div>
+
+<div class="group relative rounded-2xl overflow-hidden aspect-square bg-dark">
+
+            <img src="https://liteapks.com/wp-content/uploads/2026/03/gta-series-500x338.jpg"
+             alt="Grand Theft Auto"
+             loading="lazy"
+             class="absolute inset-0 w-full h-full object-cover transition-transform duration-500">
+    
+    <div class="absolute inset-0 bg-gradient-to-t from-[#c2410c]/90 via-[#c2410c]/40 to-transparent transition-opacity duration-300 group-hover:opacity-0"></div>
+    <div class="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[#c2410c]/90 via-[#c2410c]/40 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
+
+    <a href="https://liteapks.com/collection/grand-theft-auto"
+       class="absolute inset-0 z-[1]"
+       aria-label="Grand Theft Auto"></a>
+
+    <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4 z-[2] pointer-events-none">
+        <h2 class="text-white font-bold text-sm sm:text-base leading-snug mb-2.5 drop-shadow">
+            Grand Theft Auto        </h2>
+
+                    <div class="flex flex-wrap gap-1.5 pointer-events-auto">
+                                    <a href="https://liteapks.com/madout2-bigcityonline.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/06/madout2-bigcityonline-150x150.png"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/gangs-town-story-2.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/09/gangs-town-story-150x150.jpg"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/gta-vice-city-definitive.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2025/08/gta-vice-city-definitive-150x150.webp"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                                <span class="flex items-end text-base font-bold text-white">
+                    +11 more                </span>
+                            </div>
+            </div>
+
+</div>
+
+<div class="group relative rounded-2xl overflow-hidden aspect-square bg-dark">
+
+            <img src="https://liteapks.com/wp-content/uploads/2026/03/game-pixel-thumb-500x281.jpg"
+             alt="Legendary Pixel Games"
+             loading="lazy"
+             class="absolute inset-0 w-full h-full object-cover transition-transform duration-500">
+    
+    <div class="absolute inset-0 bg-gradient-to-t from-[#7e22ce]/90 via-[#7e22ce]/40 to-transparent transition-opacity duration-300 group-hover:opacity-0"></div>
+    <div class="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[#7e22ce]/90 via-[#7e22ce]/40 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100"></div>
+
+    <a href="https://liteapks.com/collection/legendary-pixel-games"
+       class="absolute inset-0 z-[1]"
+       aria-label="Legendary Pixel Games"></a>
+
+    <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4 z-[2] pointer-events-none">
+        <h2 class="text-white font-bold text-sm sm:text-base leading-snug mb-2.5 drop-shadow">
+            Legendary Pixel Games        </h2>
+
+                    <div class="flex flex-wrap gap-1.5 pointer-events-auto">
+                                    <a href="https://liteapks.com/guardian-tales.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2023/02/guardian-tales-150x150.jpg"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/kingdom-two-crowns.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2023/02/kingdom-two-crowns-150x150.jpg"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                    <a href="https://liteapks.com/terraria.html"
+                       class="relative z-[3] rounded-xl ring-2 ring-white/30 overflow-hidden w-9 h-9 sm:w-11 sm:h-11 flex-shrink-0 hover:ring-white/70 transition-all">
+                        <img src="https://liteapks.com/wp-content/uploads/2022/06/terraria-150x150.png"
+                             alt=""
+                             loading="lazy"
+                             class="w-full h-full object-cover">
+                    </a>
+                                                <span class="flex items-end text-base font-bold text-white">
+                    +5 more                </span>
+                            </div>
+            </div>
+
+</div>
+                </div>
+            </div>
+        </section>
+    
+			<section class="pt-10">
+				<div class="max-w-gp mx-auto px-4 md:px-6">
+                    
+                        <div class="flex items-center justify-between">
+                            <div class="flex justify-start gap-1">
+                                <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M386.5-638.72q-38.5-38.72-38.5-93.5t38.72-93.28q38.72-38.5 93.5-38.5t93.28 38.72q38.5 38.72 38.5 93.5t-38.72 93.28q-38.72 38.5-93.5 38.5t-93.28-38.72Zm0 504q-38.5-38.72-38.5-93.5t38.72-93.28q38.72-38.5 93.5-38.5t93.28 38.72q38.5 38.72 38.5 93.5t-38.72 93.28Q534.56-96 479.78-96t-93.28-38.72Zm136-50.78Q540-203 540-228t-17.5-42.5Q505-288 480-288t-42.5 17.5Q420-253 420-228t17.5 42.5Q455-168 480-168t42.5-17.5ZM731.78-348q-54.78 0-93.28-38.72t-38.5-93.5q0-54.78 38.72-93.28t93.5-38.5q54.78 0 93.28 38.72t38.5 93.5q0 54.78-38.72 93.28t-93.5 38.5Zm.22-72q25 0 42.5-17.5T792-480q0-25-17.5-42.5T732-540q-25 0-42.5 17.5T672-480q0 25 17.5 42.5T732-420Zm-504.22 72q-54.78 0-93.28-38.72T96-480.22q0-54.78 38.72-93.28t93.5-38.5q54.78 0 93.28 38.72t38.5 93.5q0 54.78-38.72 93.28t-93.5 38.5Zm.22-72q25 0 42.5-17.5T288-480q0-25-17.5-42.5T228-540q-25 0-42.5 17.5T168-480q0 25 17.5 42.5T228-420Z"/></svg>                                <h2 class="sec-title text-lg font-bold">Lastest Games</h2>
+                            </div>
+
+                                                        <a href="https://liteapks.com/games"
+                               class="text-sm font-semibold text-primary no-underline hover:underline">
+                                More                            </a>
+                                                    </div>
+
+                        
+                    
+					<div class="relative group mt-4">
+                        
+						<div id=""
+                             class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+															<a href="https://liteapks.com/sniper-3d-assassin-2.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/06/sniper-3d-assassin-150x150.png" class="w-full h-full object-cover" alt="Sniper 3D Assassin" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Sniper 3D Assassin</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Action</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, VIP, Money, Ammo        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/melon-sanbox.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/07/melon-playground-150x150.jpg" class="w-full h-full object-cover" alt="Melon Sandbox" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Melon Sandbox</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.8</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Simulation</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Unlocked All Content        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/paw-legend.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/05/paw-legend-150x150.webp" class="w-full h-full object-cover" alt="Paw Legend" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Paw Legend</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>5</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Role Playing</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Attack, Defense Multiplier, Currency        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/jewel-match-king.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/12/jewel-match-king-150x150.jpg" class="w-full h-full object-cover" alt="Jewel Match King" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Jewel Match King</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.5</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Puzzle</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Auto Win        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/dino-with-a-gun.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/09/dino-with-a-gun-150x150.webp" class="w-full h-full object-cover" alt="Dino with a Gun" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Dino with a Gun</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Casual</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Attack, God Mode, Free Purchase        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/legend-of-avatar.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/04/legend-of-avatar-150x150.webp" class="w-full h-full object-cover" alt="Legend of Avatar" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Legend of Avatar</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.2</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Role Playing</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Damage & Defense Multiplier, God Mode        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/animal-mafia.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2026/01/animal-mafia-150x150.webp" class="w-full h-full object-cover" alt="Animal Mafia" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Animal Mafia</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.4</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Action</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Damage, Defense Multiplier        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/x-magician.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/07/unnamed-file-150x150.webp" class="w-full h-full object-cover" alt="X Magician / 우주 마녀 키우기 : 마법이 부족해서 정령과 손잡았다" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">X Magician / 우주 마녀 키우기 : 마법이 부족해서 정령과 손잡았다</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>2.5</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Casual</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Damage & Defense Multiplier, God Mode        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/rogue-legend-roguelike-rpg.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2026/03/rogue-legend-roguelike-rpg-150x150.webp" class="w-full h-full object-cover" alt="Rogue Legend &#8211; Roguelike RPG" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Rogue Legend &#8211; Roguelike RPG</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.8</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Role Playing</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Damage, God Mode        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/stickman-defense.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/12/warventure-stickman-clash-150x150.webp" class="w-full h-full object-cover" alt="Stickman Defense" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Stickman Defense</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Adventure</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Currency, No ADS        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/hungry-hearts-diner-neo.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/02/hungry-hearts-diner-neo-150x150.jpg" class="w-full h-full object-cover" alt="Hungry Hearts Diner Neo" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Hungry Hearts Diner Neo</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4.2</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Simulation</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Unlimited Coin/Energy        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/nightfall-kingdom-frontier-td.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2024/10/nightfall-kingdom-frontier-td-150x150.webp" class="w-full h-full object-cover" alt="Nightfall: Kingdom Frontier TD" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Nightfall: Kingdom Frontier TD</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.6</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Strategy</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Menu, Damage, Currency, God Mode        </div>
+
+    </div>
+</a>													</div>
+
+                        
+                    </div>
+				</div>
+			</section>
+					<section class="pt-10">
+				<div class="max-w-gp mx-auto px-4 md:px-6">
+                    
+                        <div class="flex items-center justify-between">
+                            <div class="flex justify-start gap-1">
+                                <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M384-144H216q-29.7 0-50.85-21.15Q144-186.3 144-216v-168q40-2 68-29.5t28-66.5q0-39-28-66.5T144-576v-168q0-29.7 21.15-50.85Q186.3-816 216-816h168q0-40 27.77-68 27.78-28 68-28Q520-912 548-884.16q28 27.84 28 68.16h168q29.7 0 50.85 21.15Q816-773.7 816-744v168q40 0 68 27.77 28 27.78 28 68Q912-440 884.16-412q-27.84 28-68.16 28v168q0 29.7-21.15 50.85Q773.7-144 744-144H576q-2-40-29.38-68t-66.5-28q-39.12 0-66.62 28-27.5 28-29.5 68Zm-168-72h112q20-45 61.5-70.5T480-312q49 0 90.5 25.5T632-216h112v-240h72q9.6 0 16.8-7 7.2-7 7.2-17t-7.2-17q-7.2-7-16.8-7h-72v-240H504v-72q0-9.6-7-16.8-7-7.2-17-7.2t-17 7.2q-7 7.2-7 16.8v72H216v112q45 20 70.5 61.5T312-480q0 50.21-25.5 91.6Q261-347 216-328v112Zm264-264Z"/></svg>                                <h2 class="sec-title text-lg font-bold">Lastest Apps</h2>
+                            </div>
+
+                                                        <a href="https://liteapks.com/apps"
+                               class="text-sm font-semibold text-primary no-underline hover:underline">
+                                More                            </a>
+                                                    </div>
+
+                        
+                    
+					<div class="relative group mt-4">
+                        
+						<div id=""
+                             class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+															<a href="https://liteapks.com/supervpn-pro.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2024/01/supervpn-pro-150x150.webp" class="w-full h-full object-cover" alt="SuperVPN Pro" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">SuperVPN Pro</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4.2</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Productivity</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Premium Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/wifi-analyzer-premium.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/01/wifi-analyzer-150x150.jpg" class="w-full h-full object-cover" alt="WiFi Analyzer Premium" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">WiFi Analyzer Premium</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Patched        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/tapet-wallpapers.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/06/tapet-wallpapers-mod-apk-150x150.png" class="w-full h-full object-cover" alt="Tapet Wallpapers" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Tapet Wallpapers</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Premium Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/smart-tools-2.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/11/smart-tools-2-150x150.webp" class="w-full h-full object-cover" alt="Smart Tools 2" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Smart Tools 2</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.2</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/smart-launcher-6.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/smart-launcher-6-150x150.png" class="w-full h-full object-cover" alt="Smart Launcher 6" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Smart Launcher 6</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.8</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Pro Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/pix-material-expressive-icons.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/05/pix-material-expressive-icons-150x150.webp" class="w-full h-full object-cover" alt="Pix Material Expressive Icons" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Pix Material Expressive Icons</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/oxigen-3d-icon-pack.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2024/03/oxigen-3d-icon-pack-150x150.webp" class="w-full h-full object-cover" alt="Oxigen 3D – Icon Pack" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Oxigen 3D – Icon Pack</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4.1</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/one-ui-hd-icon-pack.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/09/unnamed-17-150x150.webp" class="w-full h-full object-cover" alt="One UI HD – Icon Pack" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">One UI HD – Icon Pack</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.4</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/mirror-lab.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/12/mirror-lab-150x150.webp" class="w-full h-full object-cover" alt="Mirror Lab" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Mirror Lab</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>5</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Photography</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Premium Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/moodpress.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2024/06/moodpress-mood-diary-tracker-150x150.webp" class="w-full h-full object-cover" alt="Moodpress" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Moodpress</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Lifestyle</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Premium Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/all-backup-restore.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/07/all-backup-restore-150x150.jpg" class="w-full h-full object-cover" alt="All Backup &#038; Restore" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">All Backup &#038; Restore</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Pro Unlocked        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/game-booster-game-launcher.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2022/04/game-booster-game-launcher-150x150.png" class="w-full h-full object-cover" alt="Game Booster: Game Launcher (Richie Games)" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Game Booster: Game Launcher (Richie Games)</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4.1</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Premium Unlocked        </div>
+
+    </div>
+</a>													</div>
+
+                        
+                    </div>
+				</div>
+			</section>
+					<section class="pt-10">
+				<div class="max-w-gp mx-auto px-4 md:px-6">
+                    
+                        <div class="flex items-center justify-between">
+                            <div class="flex justify-start gap-1">
+                                <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M264-384q0 46 19.5 87.5T338-223q-1-5-1.5-10t-.5-10q0-27 10-50.5t27-42.5l107-120 107 120q17 20 27 43.5t10 49.5q0 5-.5 10.5T622-222q35-29 54.5-71.5T696-384q0-51-17.5-100.5T628-576q-17 11-35.5 17t-40.5 6q-52 0-91.5-32T411-668q-36 33-63 67.5T302-530q-19 36-28.5 73t-9.5 73Zm216 36-53 60q-9 11-14 22.5t-5 25.5q0 30 21 51t51 21q30 0 51-21t21-51q0-14-5-26t-14-22l-53-60Zm0-468v119q0 30 21 51t51 21q17 0 31.5-7t24.5-20l16-20q64 38 104 118.5T768-384q0 120-84 204T480-96q-120 0-204-84t-84-204q0-112 76-226.5T480-816Z"/></svg>                                <h2 class="sec-title text-lg font-bold">Paid for you</h2>
+                            </div>
+
+                                                        <a href="https://liteapks.com/browse-apps-games?q=&#038;type%5B%5D=342&#038;sort=latest"
+                               class="text-sm font-semibold text-primary no-underline hover:underline">
+                                More                            </a>
+                                                    </div>
+
+                        
+                    
+					<div class="relative group mt-4">
+                        
+						<div id=""
+                             class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+															<a href="https://liteapks.com/smart-tools-2.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2023/11/smart-tools-2-150x150.webp" class="w-full h-full object-cover" alt="Smart Tools 2" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Smart Tools 2</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.2</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/pix-material-expressive-icons.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/05/pix-material-expressive-icons-150x150.webp" class="w-full h-full object-cover" alt="Pix Material Expressive Icons" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Pix Material Expressive Icons</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.7</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/oxigen-3d-icon-pack.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2024/03/oxigen-3d-icon-pack-150x150.webp" class="w-full h-full object-cover" alt="Oxigen 3D – Icon Pack" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Oxigen 3D – Icon Pack</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>4.1</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/one-ui-hd-icon-pack.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/09/unnamed-17-150x150.webp" class="w-full h-full object-cover" alt="One UI HD – Icon Pack" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">One UI HD – Icon Pack</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.4</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/glossy-dark-3d-icon-pack.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/12/glossy-dark-3d-icon-pack-150x150.webp" class="w-full h-full object-cover" alt="Glossy Dark 3D &#8211; Icon Pack" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Glossy Dark 3D &#8211; Icon Pack</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>5</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Personalization</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>															<a href="https://liteapks.com/powerful-ram-monitor-pro.html" class="flex items-center gap-4 px-4 py-3 rounded-xl shadow-md hover:shadow-lg cursor-pointer hover:bg-gray-50 transition-colors no-underline text-dark bg-white">
+    <div class="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-gray-100 shadow-sm">
+                    <img src="https://liteapks.com/wp-content/uploads/2025/05/powerful-ram-monitor-pro-150x150.webp" class="w-full h-full object-cover" alt="Powerful RAM Monitor Pro" loading="lazy">
+            </div>
+
+    <div class="flex-1 min-w-0">
+        <h3 class="text-md font-semibold truncate m-0">Powerful RAM Monitor Pro</h3>
+        <div class="text-sm text-gray-3 truncate m-0 my-1 flex items-center gap-1.5 font-medium">
+            <div class="text-xs flex items-center gap-0.5">
+                <span>3.1</span>
+                <svg class="w-2.5 h-2.5 text-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            </div>
+            <span>&bull;</span>
+            <span class="truncate">Tools</span>
+        </div>
+
+        <div class="truncate text-xs font-semibold text-orange">
+            Full Version        </div>
+
+    </div>
+</a>													</div>
+
+                        
+                    </div>
+				</div>
+			</section>
+		
+
+
+
+
+		<section class="pt-6 pb-10 mt-6">
+			<div class="max-w-gp mx-auto px-4 md:px-6">
+                <div class="flex justify-between items-center">
+                    <div class="flex items-start gap-1">
+                        <svg class="w-6 h-6 text-orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor"><path d="M96-528q0-88 35.5-162T230-818l51 50q-52 43-82.5 105.5T168-528H96Zm696 0q0-73-30.5-135.5T678-769l52-51q62 53 98 128.5T864-528h-72ZM192-216v-72h48v-240q0-87 53.5-153T432-763v-53q0-20 14-34t34-14q20 0 34 14t14 34v53q85 16 138.5 82T720-528v240h48v72H192Zm288-276Zm0 396q-30 0-51-21t-21-51h144q0 30-21 51t-51 21ZM312-288h336v-240q0-70-49-119t-119-49q-70 0-119 49t-49 119v240Z"/></svg>                        <h2 class="text-xl font-bold">News</h2>
+                    </div>
+
+                    <a href="https://liteapks.com/news"
+                       class="text-sm font-semibold text-primary no-underline hover:underline">
+                        More                    </a>
+                </div>
+
+                
+				<div class="flex flex-wrap gap-4 mt-4">
+											<div class="w-full md:w-[calc(50%-8px)] lg:w-[calc(33.333%-11px)]">
+							<article class="article-card rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all">
+    <a href="https://liteapks.com/how-to-fix-youtube-revanced-mod.html" class="block">
+        <div class="article-thumb aspect-video overflow-hidden">
+            <img src="https://liteapks.com/wp-content/uploads/2024/04/youtube-revanced-1-500x253.jpg" alt="How to fix Youtube Revanced mod" class="w-full h-full object-cover transition-transform duration-300">
+        </div>
+        <div class="article-content p-5">
+            <div class="flex items-center gap-2 mb-3">
+
+                <span class="px-3 py-1 rounded-full bg-primary text-white text-xs font-semibold">Tutorial</span>
+                <time class="text-xs text-gray-400">April 5, 2024</time>
+            </div>
+            <h3 class="article-title text-lg font-bold text-gray-900 leading-snug mb-2 line-clamp-1 transition-colors truncate">
+                How to fix Youtube Revanced mod            </h3>
+            <p class="article-excerpt text-gray-500 text-sm line-clamp-2 mb-4">
+                Uninstall Old Yt Mods and install New Yt mods and GMSmicroG Buffering or Play back issues Fix: &#8211; Disable or ignore battery optimization in app setting &#8211; Don&#8217;t restrict background power usage in Background power consumption management at device battery setting for Yt &amp;...            </p>
+            <div class="flex items-center gap-3 text-xs text-gray-400">
+                <span>1 minute read</span>
+                <span>•</span>
+                <span>27.5K views</span>
+            </div>
+        </div>
+    </a>
+</article>				ADMIN		... 1. LAVKUSH 2. IMAANSHU
